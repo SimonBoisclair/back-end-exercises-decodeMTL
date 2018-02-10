@@ -1,0 +1,22 @@
+{
+  "name": "back-end-exercises-decodemtl",
+  "version": "1.0.0",
+  "description": "This is some exercises as proof of basic competency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonBoisclair/back-end-exercises-decodeMTL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonBoisclair/back-end-exercises-decodeMTL/issues"
+  },
+  "homepage": "https://github.com/SimonBoisclair/back-end-exercises-decodeMTL#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
